@@ -1,0 +1,1 @@
+export const ServiceUri = new URL('http://localhost:8000/')

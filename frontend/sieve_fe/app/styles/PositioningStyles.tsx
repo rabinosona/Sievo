@@ -1,0 +1,1 @@
+export const CenteredClass = "flex flex-row items-center justify-center";
